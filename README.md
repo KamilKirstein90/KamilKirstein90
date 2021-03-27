@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KamilKirstein90, I´m mostyl self thougt software developer currenty workin with Qt on desktop windows apllciations. 
+- 👋 Hi, I’m @KamilKirstein90, I´m mostyl self thougt software developer currenty workin for a compayn developing desktop apllciations for windows with the Qt C++ framework. 
 - 👀 I’m interested in android development and agile working methods. I like to motivate people and try to develop new lerarning techniques for self education. 
 - 🌱 I’m currently learning  the Codelabs for Android Developer Fundamentals in JAVA and some agile methods for project planning and execution.
 - 💞️ I’m looking to collaborate on some beginer mobile android application projects. 
